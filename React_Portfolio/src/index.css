@@ -143,7 +143,7 @@ header nav ul li a:hover {
 
 .intro p {
   line-height: 1.7;
-  color: #0E5259;
+  color: black;
   width: 80%;
   font-size: 20px;
   margin: 0 auto;
@@ -172,7 +172,7 @@ header nav ul li a:hover {
 }
 
 .intro-text p {
-  color: #328C83;
+  color: #492a27;
   font-size: 18px;
 }
 
@@ -492,7 +492,7 @@ header nav ul li a:hover {
 
 
 footer {
-  background: #D5F2EA;
+  background: #492a27;
   font-weight: bold;
   width: 100%;
   height: 100px;
@@ -507,13 +507,13 @@ footer {
 
 footer h2 {
 
-  color: #75BFB2;
+  color: #fff;
   font-size: 15px;
   margin: 0;
 }
 
 footer p {
-  color: #75BFB2;
+  color: #fff;
   font-size: 15px;
   margin: 0;
   text-align: center;
@@ -539,7 +539,7 @@ footer a:hover {
   cursor: pointer;
   list-style: none;
   font-size: 40px;
-  color: #0E5259;
+  color: #fff;
   display: inline-block;
 }
 
@@ -552,8 +552,8 @@ footer a:hover {
 
 .section-title {
   font-size: 48px;
-  color: #75BFB2;
-  border-bottom: 3px solid;
+  color: #492a27;
+  border-bottom: 3px solid #492a27;
   padding-bottom: 20px;
   text-align: center;
   margin: 0 auto 35px auto;
@@ -561,11 +561,11 @@ footer a:hover {
 }
 
 .primary-border {
-  border-color: #0E5259;
+  border-color: #492a27;
 }
 
 .secondary-border {
-  border-color: #D5F2EA;
+  border-color: #492a27;
 }
 
 label {
