@@ -289,7 +289,7 @@ header nav ul li a:hover {
 
 
 .jobs {
-  background: #0E5259;
+  background: #492a27;
 
 }
 
@@ -307,7 +307,7 @@ header nav ul li a:hover {
 
 
 .job:nth-child(even) {
-  border-bottom: 1px solid #D5F2EA;
+  border-bottom: 1px solid #fff;
 }
 
 .job:last-child {
@@ -317,7 +317,7 @@ header nav ul li a:hover {
 .job-text h4 {
   font-size: 26px;
   line-height: 1.5;
-  color: #75BFB2;
+  color: #fff;
 }
 
 
@@ -362,7 +362,7 @@ header nav ul li a:hover {
 
 .job-img img:hover {
   /*    transition: .5s ease-in-out;*/
-  border: 5px solid #ACF2E5;
+  border: 5px solid #fff;
   transform: scale(1.1);
 }
 
@@ -376,7 +376,7 @@ header nav ul li a:hover {
 }
 
 .job-text p {
-  color: #D5F2EA;
+  color: #fff;
   font-size: 18px;
 }
 

@@ -14,9 +14,8 @@ function About() {
             <img src={profileImage} style={{ width: "100%" }} alt="profile" />
           </div>
           <p>
-            Greetings! My name is Candace Gostinski. I am a graphic designer and web developer residing in Winston-Salem, North Carolina.</p>
-          <p>For the past four years, I have been providing clients with the best possible designs for web and print, and am enthusiastic to share my web development skills with you here.</p>
-          <p>Please feel free to browse my online portfolio for a glimpse of my work. If you're interested, you can navigate to the contact page in order to schedule an appointment where we might meet to discuss your project.</p>
+            Greetings! My name is Candace Gostinski. I am a graphic designer and web developer residing in Winston-Salem, North Carolina. For the past four years, I have been providing clients with the best possible designs for web and print, and am enthusiastic to share my web development skills with you here.
+            Please feel free to browse my online portfolio for a glimpse of my work. If you're interested, you can navigate to the contact page in order to schedule an appointment where we might meet to discuss your project.</p>
         </div>
       </div>
     </section>
