@@ -19,7 +19,7 @@
 }
 
 body {
-  color: #D5F2EA;
+  color: #fff;
   font-family: 'Open Sans', sans-serif;
   margin: 0;
   min-height: 100vh;
@@ -40,7 +40,7 @@ code {
 
 header {
   padding: 20px 35px;
-  background-color: #492a27;
+  background-color: #52a2ed;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -178,15 +178,15 @@ header nav ul li a:hover {
 
 #reach-out {
   /* margin-top: 5px; */
-  background: #75BFB2;
+  background: #52a2ed;
 }
 
 #reach-out h2 {
-  color: #0E5259;
+  color: #fff;
 }
 
 .contact h2 {
-  color: #F2E3D5;
+  color: #fff;
 }
 
 .contact-info {
@@ -206,16 +206,16 @@ header nav ul li a:hover {
 
 .contact-form input,
 .contact-form textarea {
-  border: 1px solid #024e76;
+  border: 1px solid black;
   display: block;
   padding: 7px 15px;
   font-size: 16px;
-  color: #024e76;
+  color: black;
   width: 100%;
   margin-bottom: 15px;
   margin-top: 5px;
   border-radius: 10px;
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: #fff;
 
 }
 
@@ -229,8 +229,8 @@ header nav ul li a:hover {
 .contact-form button {
   width: 100%;
   border: none;
-  background: #F2E3D5;
-  color: #024e76;
+  background: #fff;
+  color: #492a27;
   text-align: center;
   padding: 15px 0;
   font-size: 25px;
@@ -256,7 +256,7 @@ header nav ul li a:hover {
 }
 
 .contact-info h3 {
-  color: #0E5259;
+  color: #fff;
   font-size: 32px;
 }
 
@@ -278,18 +278,18 @@ header nav ul li a:hover {
 }
 
 .contact-info a {
-  color: #0E5259;
+  color: #fff;
   display: inline;
 }
 
 .contact-info a:hover {
-  color: #ACF2E5;
+  color: #fff;
   transition: .5s ease;
 }
 
 
 .jobs {
-  background: #492a27;
+  background: #52a2ed;
 
 }
 
@@ -302,7 +302,7 @@ header nav ul li a:hover {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 1px solid #D5F2EA;
+  border-bottom: 1px solid #fff;
 }
 
 
@@ -383,7 +383,7 @@ header nav ul li a:hover {
 
 .download-intro p {
   line-height: 1.7;
-  color: #0E5259;
+  color: #52a2ed;
   width: 95%;
   font-size: 30px;
   margin: 0 auto;
@@ -422,7 +422,7 @@ header nav ul li a:hover {
 .article {
   margin: 10px;
   margin-bottom: 1em;
-  background-color: #B4D9CB;
+  background-color: #52a2ed;
 }
 
 
@@ -443,12 +443,12 @@ header nav ul li a:hover {
   cursor: pointer;
   list-style: none;
   font-size: 40px;
-  color: #0E5259;
+  color: #fff;
   display: inline-block;
 }
 
 .download-logo:hover {
-  color: #328C83;
+  color: #fff;
   opacity: 0.5;
   transition: .5s ease;
 }
@@ -473,13 +473,13 @@ header nav ul li a:hover {
 } */
 
 .column-title {
-  color: #285950;
+  color: #fff;
   font-size: 25px;
   font-weight: bold;
 }
 
 .column-text {
-  color: #285950;
+  color: #fff;
   font-size: 20px;
   padding: 5px;
 
@@ -492,7 +492,7 @@ header nav ul li a:hover {
 
 
 footer {
-  background: #492a27;
+  background: #52a2ed;
   font-weight: bold;
   width: 100%;
   height: 100px;
@@ -527,11 +527,11 @@ footer div {
 }
 
 footer a {
-  color: #75BFB2;
+  color: #fff;
 }
 
 footer a:hover {
-  color: #328C83;
+  color: #fff;
   transition: .5s ease;
 }
 
@@ -544,7 +544,7 @@ footer a:hover {
 }
 
 .logo:hover {
-  color: #328C83;
+  color: #fff;
   opacity: 0.5;
   transition: .5s ease;
 }
@@ -552,8 +552,18 @@ footer a:hover {
 
 .section-title {
   font-size: 48px;
-  color: #492a27;
-  border-bottom: 3px solid #492a27;
+  color: #52a2ed;
+  border-bottom: 3px solid #52a2ed;
+  padding-bottom: 20px;
+  text-align: center;
+  margin: 0 auto 35px auto;
+  width: 50%;
+}
+
+.section-title portfolio {
+  font-size: 48px;
+  color: #52a2ed;
+  border-bottom: 3px solid #52a2ed;
   padding-bottom: 20px;
   text-align: center;
   margin: 0 auto 35px auto;
@@ -561,11 +571,11 @@ footer a:hover {
 }
 
 .primary-border {
-  border-color: #492a27;
+  border-color: #52a2ed;
 }
 
 .secondary-border {
-  border-color: #492a27;
+  border-color: #fff;
 }
 
 label {
