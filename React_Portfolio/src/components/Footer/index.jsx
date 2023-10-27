@@ -9,17 +9,17 @@ function Footer() {
       <h2>Made by Candace Gostinski©</h2>
       <p>
         <ul>
-          <a href="https://github.com/Lemming97">
+          <a href="https://github.com/CandaceG00">
             <li className="logo">
               <VscGithubAlt />
             </li>
           </a>
-          <a href="https://www.linkedin.com/in/lindsey-m-2219abb0/">
+          <a href="https://www.linkedin.com/in/candace-gostinski-491622203">
             <li className="logo">
               <AiOutlineLinkedin />
             </li>
           </a>
-          <a href="https://www.instagram.com/lem_photos/">
+          <a href="https://www.instagram.com/cmgdesigns_/?hl=en">
             <li className="logo">
               <FaInstagram />
             </li>
