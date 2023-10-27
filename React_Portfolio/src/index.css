@@ -97,8 +97,8 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-  background: #0E5259;
-  color: #D5F2EA;
+  background: #001e7a;
+  color: #fff;
   border-radius: 15px;
   text-shadow: none;
   /*    transition: .5s ease-in;*/
@@ -201,7 +201,7 @@ header nav ul li a:hover {
 
 .contact-form button:hover {
   color: #F2E3D5;
-  background: #39a6b2;
+  background: #001e7a;
 }
 
 .contact-form input,
@@ -551,16 +551,6 @@ footer a:hover {
 
 
 .section-title {
-  font-size: 48px;
-  color: #52a2ed;
-  border-bottom: 3px solid #52a2ed;
-  padding-bottom: 20px;
-  text-align: center;
-  margin: 0 auto 35px auto;
-  width: 50%;
-}
-
-.section-title portfolio {
   font-size: 48px;
   color: #52a2ed;
   border-bottom: 3px solid #52a2ed;
