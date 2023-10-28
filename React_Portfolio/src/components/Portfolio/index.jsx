@@ -1,6 +1,6 @@
 import React from "react";
 import homeBrewImage from "../../assets/small/HomeBrew.png";
-import summerPunchImage from "../../assets/small/Summer_Punch.png";
+import globeTrotterImage from "../../assets/small/globe_trotter.png";
 import weatherDashImage from "../../assets/small/weather_dashboard.png";
 import noteTakerImage from "../../assets/small/notetaker.png";
 import pGeneratorImage from "../../assets/small/password_generator.png";
@@ -138,7 +138,7 @@ function Portfolio() {
               <a href="https://hans-doderlein.github.io/Globe-Trotter/">
                 {" "}
                 <img
-                  src={summerPunchImage}
+                  src={globeTrotterImage}
                   className="my-2"
                   style={{ width: "100%" }}
                   alt="globe-trotter"
