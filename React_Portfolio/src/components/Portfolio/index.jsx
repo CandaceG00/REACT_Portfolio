@@ -65,21 +65,21 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://lemming97.github.io/Twilight_Ristorante/">
+              <a href="https://candaceg00.github.io/JavaScript_Password-Generator/">
                 {" "}
                 <img
                   src={twilightImage}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="Twilight_Ristorante"
+                  alt="Password-Generator"
                 />
               </a>
             </div>
             <div className="job-text">
-              <h4>Twilight Ristorante</h4>
+              <h4>JavaScript Password Generator</h4>
               <p>
-                A HTML and CSS application that lets the user explore a Sample
-                Restaurant Design.{" "}
+                An HTML, CSS and JavaScript webpage that can be used to generate random passwords between
+                8 and 128 characters with letters, numbers, and special characters.{" "}
               </p>
             </div>
           </div>
@@ -88,21 +88,22 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://nameless-mountain-77177.herokuapp.com/">
+              <a href="https://candaceg00.github.io/SSAPIs_WeatherDashboard/">
                 {" "}
                 <img
                   src={noteTakerImage}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="Note_Taker"
+                  alt="weather-app"
                 />
               </a>
             </div>
             <div className="job-text">
-              <h4>Note Taker</h4>
+              <h4>Weather Dashboard</h4>
               <p>
-                An application that provides the user the ability to add new
-                notes, and to delete notes.{" "}
+                A web application that utilizes APIs to allow a user to view the weather of a particiular city
+                by searching in the search bar. It also allows them to view the five-day forecast as well as temperature and humidity of each
+                city. {" "}
               </p>
             </div>
           </div>
