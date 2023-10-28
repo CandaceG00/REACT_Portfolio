@@ -1,8 +1,8 @@
 import React from "react";
 import homeBrewImage from "../../assets/small/HomeBrew.png";
 import summerPunchImage from "../../assets/small/Summer_Punch.png";
-import weatherDashImage from "../../assets/small/Weather_Dash.png";
-import noteTakerImage from "../../assets/small/NoteTaker.png";
+import weatherDashImage from "../../assets/small/weather_dashboard.png";
+import noteTakerImage from "../../assets/small/notetaker.png";
 import pGeneratorImage from "../../assets/small/password_generator.png";
 import webQuizImage from "../../assets/small/webapi_1.png";
 import cssImage from "../../assets/small/css_portfolio.png";
@@ -91,7 +91,7 @@ function Portfolio() {
               <a href="https://candaceg00.github.io/SSAPIs_WeatherDashboard/">
                 {" "}
                 <img
-                  src={noteTakerImage}
+                  src={weatherDashImage}
                   className="my-2"
                   style={{ width: "100%" }}
                   alt="weather-app"
@@ -115,7 +115,7 @@ function Portfolio() {
               <a href="https://note-taker5229-ecfbfdcd4843.herokuapp.com/">
                 {" "}
                 <img
-                  src={weatherDashImage}
+                  src={noteTakerImage}
                   className="my-2"
                   style={{ width: "100%" }}
                   alt="Notetaker-Application"
