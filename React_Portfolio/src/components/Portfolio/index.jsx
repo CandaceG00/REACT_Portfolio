@@ -3,9 +3,9 @@ import homeBrewImage from "../../assets/small/HomeBrew.png";
 import summerPunchImage from "../../assets/small/Summer_Punch.png";
 import weatherDashImage from "../../assets/small/Weather_Dash.png";
 import noteTakerImage from "../../assets/small/NoteTaker.png";
-import twilightImage from "../../assets/small/Twilight_Ristorante.png";
-import flowerImage from "../../assets/small/Sweet-Pea-Flowers.png";
-import sphereImage from "../../assets/small/Sphere.png";
+import pGeneratorImage from "../../assets/small/password_generator.png";
+import webQuizImage from "../../assets/small/webapi_1.png";
+import cssImage from "../../assets/small/css_portfolio.png";
 
 function Portfolio() {
   return (
@@ -21,7 +21,7 @@ function Portfolio() {
               <a href="https://candaceg00.github.io/AdvancedCSS_Portfolio/">
                 {" "}
                 <img
-                  src={sphereImage}
+                  src={cssImage}
                   className="my-2"
                   style={{ width: "100%" }}
                   alt="CSS-Portfolio"
@@ -44,7 +44,7 @@ function Portfolio() {
               <a href="https://candaceg00.github.io/WebAPIs_CodeQuiz/">
                 {" "}
                 <img
-                  src={flowerImage}
+                  src={webQuizImage}
                   className="my-2"
                   style={{ width: "100%" }}
                   alt="web-code-quiz"
@@ -68,7 +68,7 @@ function Portfolio() {
               <a href="https://candaceg00.github.io/JavaScript_Password-Generator/">
                 {" "}
                 <img
-                  src={twilightImage}
+                  src={pGeneratorImage}
                   className="my-2"
                   style={{ width: "100%" }}
                   alt="Password-Generator"
