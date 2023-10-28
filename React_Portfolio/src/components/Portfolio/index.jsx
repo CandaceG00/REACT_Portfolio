@@ -112,23 +112,21 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://lemming97.github.io/Weather_Dashboard/">
+              <a href="https://note-taker5229-ecfbfdcd4843.herokuapp.com/">
                 {" "}
                 <img
                   src={weatherDashImage}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="Weather_Dashboard"
+                  alt="Notetaker-Application"
                 />
               </a>
             </div>
             <div className="job-text">
-              <h4>Weather Dashboard</h4>
+              <h4>Notetaker</h4>
               <p>
-                A website that allows the user see the weather outlook for
-                multiple cities. The user can enter a city and see a 5-Day
-                Forecast. The user can see the temperature, humidity levels,
-                wind speed as well as the UV index.{" "}
+                A front and back end application that allows the user to create and store notes, as well as log 
+                the information such as date and time uploaded. This webpage can be viewed deployed via Heroku. {" "}
               </p>
             </div>
           </div>
@@ -137,23 +135,22 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://lemming97.github.io/Project_1/">
+              <a href="https://hans-doderlein.github.io/Globe-Trotter/">
                 {" "}
                 <img
                   src={summerPunchImage}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="SummerPunch"
+                  alt="globe-trotter"
                 />
               </a>
             </div>
             <div className="job-text">
-              <h4>Summer Punch</h4>
+              <h4>Globe-Trotter</h4>
               <p>
-                A website which offers users to input a drink name to have the
-                ingredients, measurements, and images display. The user can also
-                have a cocktail generated. If the user is too young, the user
-                will be redirected to another page.{" "}
+                A website that utilizes two APIs to connect the user with the weather and time
+                in each city. It also features a search bar and links to flights, hotels, and Airbnbs 
+                that the traveler can frequent.{" "}
               </p>
             </div>
           </div>
