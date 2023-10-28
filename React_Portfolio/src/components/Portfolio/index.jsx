@@ -41,24 +41,22 @@ function Portfolio() {
         <div className="job">
           <div className="job-info">
             <div className="job-img">
-              <a href="https://lemming97.github.io/Sweet-Pea-Flowers/">
+              <a href="https://candaceg00.github.io/WebAPIs_CodeQuiz/">
                 {" "}
                 <img
                   src={flowerImage}
                   className="my-2"
                   style={{ width: "100%" }}
-                  alt="Sweet-Pea-Flowers"
+                  alt="web-code-quiz"
                 />
               </a>
             </div>
             <div className="job-text">
-              <h4>Sweet Pea Flowers</h4>
+              <h4>Web Coding Quiz</h4>
               <p>
-                A HTMl, CSS, and Javascript application that lets the user shop
-                for their favorite flowers.The user can sign in as a guest or as
-                a user to add items to their cart. The user can manage their
-                cart by using local storage. The user can checkout and validate
-                their credit card.{" "}
+                An HTML, CSS, and JavaScript application that allows the user to
+                complete a timed coding quiz, as well as save their results and view
+                their high scores.{" "}
               </p>
             </div>
           </div>
