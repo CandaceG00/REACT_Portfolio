@@ -155,31 +155,6 @@ function Portfolio() {
             </div>
           </div>
         </div>
-
-        <div className="job">
-          <div className="job-info">
-            <div className="job-img">
-              <a href="https://floating-island-17357.herokuapp.com/">
-                {" "}
-                <img
-                  src={homeBrewImage}
-                  className="my-2"
-                  style={{ width: "100%" }}
-                  alt="HomeBrew"
-                />
-              </a>
-            </div>
-            <div className="job-text">
-              <h4>HomeBrew</h4>
-              <p>
-                A plant blog that allows the user to view seasonal gallery of
-                plants after the user logs into their account. The user can also
-                add comments to the blog once they are logged in as well as
-                deleting their comments.{" "}
-              </p>
-            </div>
-          </div>
-        </div>
       </section>
     </div>
   );
