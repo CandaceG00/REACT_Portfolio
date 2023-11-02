@@ -36,7 +36,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Usage:
 
-* This web application can be used to create and store notes for tasks the user needs to complete.
+* This application can be used to view an online resume and information about the designer, built within a React program.
 
 * Link to GitHub Repo: https://github.com/CandaceG00/REACT_Portfolio
 * Link to Netlify: https://exquisite-kheer-3597f4.netlify.app
